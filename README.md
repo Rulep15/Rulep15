@@ -1,6 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
-≫Im currently working on my own projects.<br>≫Im looking to collaborate with others developers<br>≫I am currently learning analysis in computer systems💻<br>≫Im looking for team working🎩 Amo a mi amorcito
+≫Im currently working on my own projects.<br>≫Im looking to collaborate with others developers<br>≫I am currently learning analysis in computer systems💻<br>≫Im looking for team working
+
 
 
 ## 🌐 Socials:
